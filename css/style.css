@@ -131,6 +131,7 @@ ul,ol{
 .search-overlay.open .fullscreen-searchform{
     opacity: 1;
     transform: translateY(0);
+
 }
 .search-overlay .search-box{
     width: 100%;
